@@ -21,7 +21,7 @@
             para ello dispones de los ficheros <b>show.php (lo usarás para listar todos los usuarios de la BBDD), create.php, edit.php y delete.php</b> en los 
             que deberás incluir el código correspondiente en los lugares indicados.
         </p>
-        <p class="col-md-10 fs-4">
+        <p class="col-md-10 fs-4 text-danger">
             Es importante que el código sea lo más legible y eficiente posible. Tenlo presente.
         </p>
       </div>
@@ -29,11 +29,7 @@
     <!-- FIN ENUNCIADO TAREA -->
 
 
-    <!-- FOOTER -->
-    <div class="footer p-5 mb-4 bg-primary">
-        <p class="fs-5">Tarea Presencial IAW 3er Trimestre</p>
-    </div>
-    <!-- END FOOTER -->
+    <?php include("./layouts/footer.php") ?>
 
 
     <script src="http://tpiaw.com/js/bootstrap.min.js"></script>

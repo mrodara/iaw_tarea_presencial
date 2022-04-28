@@ -12,10 +12,10 @@
                 </li>
                 <li class="nav-item">
                 <!-- ESCRIBE AQUÍ TU CÓDIGO PARA PODER NAVEGAR EN LAS OPCIONES-->
-                <a class="nav-link" href="#">Listar Usuarios</a>
+                <a class="nav-link" href="http://tpiaw.com/users/show.php">Listar Usuarios</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" href="#">Crear Usuario</a>
+                <a class="nav-link" href="http://tpiaw.com/users/create.php">Crear Usuario</a>
                 </li>
                 <!-- FIN ESCRIBE AQUÍ TU CÓDIGO PARA PODER NAVEGAR EN LAS OPCIONES-->
             </ul>
